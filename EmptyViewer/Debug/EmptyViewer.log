@@ -1,2 +1,8 @@
 ﻿  Main_EmptyViewer.cpp
-  EmptyViewer.vcxproj -> C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 7\bin\EmptyViewer.exe
+C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\EmptyViewer\Main_EmptyViewer.cpp(104,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\EmptyViewer\Main_EmptyViewer.cpp(105,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\EmptyViewer\Main_EmptyViewer.cpp(106,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\EmptyViewer\Main_EmptyViewer.cpp(115,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\EmptyViewer\Main_EmptyViewer.cpp(116,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\EmptyViewer\Main_EmptyViewer.cpp(117,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EmptyViewer.vcxproj -> C:\Users\jkh57\OneDrive\바탕 화면\대학교 생활\3학년\컴퓨터 그래픽스\cg_code assignment 8-2\bin\EmptyViewer.exe
